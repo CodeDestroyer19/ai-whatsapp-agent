@@ -29,7 +29,7 @@ An intelligent AI-powered bot that automatically responds to WhatsApp messages o
 
 1. **Clone or download the script**
 ```bash
-git clone <repository-url>
+git clone https://github.com/CodeDestroyer19/ai-whatsapp-agent
 cd whatsapp-ai-agent
 ```
 
